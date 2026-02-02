@@ -1,2 +1,3 @@
-# uc05-devsecops-integre
-UC05 DevSecOps intégré
+# UC05 DevSecOps intégré
+
+Use case repo for UC05 DevSecOps intégré.
